@@ -1,0 +1,25 @@
+.container__vagas{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 96px 0;
+}
+
+.vagas__titulo{
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--vermelho);
+}
+
+.vagas__anuncio{
+    font-size: 36px;
+    font-weight: 600;
+    color: var(--cinza-preto);
+    margin: 20px 0;
+}
+
+.vagas__texto{
+    font-size: 20px;
+    color: var(--cinza-claro);
+    margin-bottom: 64px;
+}

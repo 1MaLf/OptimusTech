@@ -1,0 +1,32 @@
+.metricas{
+    margin: 0 112px;
+}
+
+.metricas__lista{
+    display: flex;
+    list-style-type: none;
+    margin: 0 80px 96px 80px;
+    padding-left: 32px;
+}
+
+.metricas__lista-item{
+    padding-right: 32px;
+}
+
+.lista__numero{
+    font-weight: 600;
+    color: var(--vermelho);
+    font-size: 60px;
+    margin-bottom: 12px;
+}
+
+.lista__titulo{
+    font-size: 18px;
+    font-weight: 500;
+    color: var(--cinza-preto);
+    margin-bottom: 8px;
+}
+
+.lista__texto{
+    color: var(--cinza-claro);
+}
