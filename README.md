@@ -2,17 +2,17 @@
 
 Este projeto foi desenvolvido como parte da atividade "7 Days of Code" e consiste em uma página de vagas para a empresa OptimusTech.
 
-Descrição
+Descrição:
 
 O projeto "OptimusTech" é uma página web simples desenvolvida com HTML e CSS, que lista as vagas disponíveis na empresa OptimusTech. É uma aplicação estática que fornece informações sobre as vagas e os requisitos para cada posição.
 
-Funcionalidades
+Funcionalidades:
 
 Listagem das vagas disponíveis na empresa OptimusTech.
 Breve descrição para cada vaga.
 Interface simples e intuitiva.
 
-Tecnologias Utilizadas
+Tecnologias Utilizadas:
 
 HTML
 CSS
