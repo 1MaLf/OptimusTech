@@ -8,7 +8,8 @@ Descrição:
 
 Funcionalidades:
 
-• Listagem das vagas disponíveis na empresa OptimusTech. \n
+• Listagem das vagas disponíveis na empresa OptimusTech.
+
 • Interface simples e intuitiva.
 
 Tecnologias Utilizadas:
