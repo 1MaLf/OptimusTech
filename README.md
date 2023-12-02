@@ -29,5 +29,7 @@ Como Utilizar:
 
 
 • Faça o download ou clone o repositório do projeto.
+
 • Abra o arquivo index.html em seu navegador web.
+
 • Navegue pelas vagas disponíveis na página.
